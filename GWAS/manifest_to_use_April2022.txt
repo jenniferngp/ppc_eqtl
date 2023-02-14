@@ -1,0 +1,12 @@
+trait_id	trait_type	phenocode	description	filename	n_cases_full_cohort_both_sexes	n_controls_total	study	ncoloc_loci
+biomarkers-30690-both_sexes-irnt	biomarkers	30690	Cholesterol	/reference/private/pan_ukbb/summary_statistics/biomarkers-30690-both_sexes-irnt.txt.gz	461507	0	ukbb	35
+biomarkers-30740-both_sexes-irnt	biomarkers	30740	Glucose	/reference/private/pan_ukbb/summary_statistics/biomarkers-30740-both_sexes-irnt.txt.gz	422106	0	ukbb	24
+biomarkers-30750-both_sexes-irnt	biomarkers	30750	UKBB Glycated Haemoglobin (HbA1c)	/reference/private/pan_ukbb/summary_statistics/biomarkers-30750-both_sexes-irnt.txt.gz	460080	0	ukbb	51
+biomarkers-30760-both_sexes-irnt	biomarkers	30760	HDL cholesterol	/reference/private/pan_ukbb/summary_statistics/biomarkers-30760-both_sexes-irnt.txt.gz	422405	0	ukbb	52
+biomarkers-30780-both_sexes-irnt	biomarkers	30780	LDL direct	/reference/private/pan_ukbb/summary_statistics/biomarkers-30780-both_sexes-irnt.txt.gz	460650	0	ukbb	25
+biomarkers-30870-both_sexes-irnt	biomarkers	30870	Triglycerides	/reference/private/pan_ukbb/summary_statistics/biomarkers-30870-both_sexes-irnt.txt.gz	461140	0	ukbb	47
+continuous-23104-both_sexes-irnt	continuous	23104	Body mass index (BMI)	/reference/private/pan_ukbb/summary_statistics/continuous-23104-both_sexes-irnt.txt.gz	475578	0	ukbb	52
+MAGIC1000G_FG_EUR	biomarkers		Fasting Glucose	/reference/public/magic/MAGIC1000G_FG_EUR.tsv.gz			magic	10
+MAGIC1000G_HbA1c_EUR	biomarkers		MAGIC Glycated Haemoglobin (HbA1c)	/reference/public/magic/MAGIC1000G_HbA1c_EUR.tsv.gz			magic	14
+T2D_mahajan	categorical		Type 2 Diabetes	~/references/mahajan/Mahajan.NatGenet2018b.T2D.European_sorted.tsv.gz			mahajan	35
+type1_diabetes	categorical		Type 1 Diabetes	/reference/public/GCST90014023/lift_hg19			gaulton_t1d	10
